@@ -1,0 +1,54 @@
+# Build directory
+build/
+
+# Object files
+*.o
+
+# Binary files
+*.bin
+*.img
+*.iso
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+*.d
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+/build/
+/dist/
+/node_modules/
+/bin/
+/obj/
+
+# Ignore dependencies
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Ignore logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore IDE/editor settings
+/.idea/
+/.vscode/
+/.history/
+
+# Ignore Cursor rules markdown file
+.cursorrules
