@@ -1,5 +1,7 @@
 # Project Name: DOS Redux
 
+![DosRedux Logo](dosredux_logo.jpg)
+
 ## Project Overview:
 DOS Redux is a modern re-implementation of the classic MS-DOS operating system, designed to run on contemporary hardware while maintaining compatibility with legacy applications. The project aims to provide an open-source, lightweight, and efficient DOS-like environment that supports modern storage, networking, and extended memory features.
 
